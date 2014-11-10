@@ -1,0 +1,46 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  project: 
+  user: 
+  yesterday: MyText
+  today: MyText
+  status_date: 2009-08-24
+
+two:
+  project: 
+  user: 
+  yesterday: MyText
+  today: MyText
+  status_date: 2009-08-24
+
+#START:ben_yaml
+ben_tue:
+  project: huddle
+  user: ben
+  yesterday: Worked on Huddle UI
+  today: Doing some testing
+  status_date: 2009-01-06
+ben_wed:
+  project: huddle
+  user: ben
+  yesterday: Did Some Testing
+  today: More Testing
+  status_date: 2009-01-07
+#END:ben_yaml
+
+#START:jerry_status
+jerry_tue:
+  project: huddle
+  user: jerry
+  yesterday: set up huddle schema
+  today: pair programming with ben
+  status_date: 2009-01-06
+
+jerry_wed:
+  project: huddle
+  user: jerry
+  yesterday: sick
+  today: trying to pair again
+  status_date: 2009-01-07
+#END:jerry_status
